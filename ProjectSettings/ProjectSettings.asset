@@ -154,7 +154,7 @@ PlayerSettings:
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
     Android: com.UnityTechnologies.UnityGamingServicesUseCases
-    Standalone: com.UnityTechnologies.UnityGamingServicesUseCases
+    Standalone: com.Unity-Technologies.Unity-Gaming-Services-Use-Cases
     iPhone: com.UnityTechnologies.UnityGamingServicesUseCases
   buildNumber:
     Standalone: 0
@@ -466,7 +466,9 @@ PlayerSettings:
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
   switchUseMicroSleepForYield: 1
+  switchEnableRamDiskSupport: 0
   switchMicroSleepForYieldTime: 25
+  switchRamDiskSpaceSize: 12
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
@@ -608,6 +610,7 @@ PlayerSettings:
   metroFTAName: 
   metroFTAFileTypes: []
   metroProtocolName: 
+  vcxProjDefaultLanguage: 
   XboxOneProductId: 
   XboxOneUpdateKey: 
   XboxOneSandboxId: 
